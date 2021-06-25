@@ -41,6 +41,8 @@ Upgrading code for canister initia, with canister_id rrkah-fqaaa-aaaaa-aaaaq-cai
 Upgrading code for canister initia_assets, with canister_id ryjl3-tyaaa-aaaaa-aaaba-cai
 Authorizing our identity (default) to the asset canister...
 Uploading assets to asset canister...
+```
+
 
 
 build
