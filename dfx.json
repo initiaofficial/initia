@@ -9,17 +9,17 @@
         "initia"
       ],
       "frontend": {
-        "entrypoint": "src/initia_assets/src/index.html"
+        "entrypoint": "build/index.html"
       },
       "source": [
-        "src/initia_assets/assets",
-        "dist/initia_assets/"
+        "build"
       ],
       "type": "assets"
     }
   },
   "defaults": {
     "build": {
+      "output": "canisters",
       "packtool": ""
     }
   },
